@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to Francesco Serangeli's GitHub Profile!
 
-<!--
-**williamaerus/williamaerus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Francesco, a self-taught programmer with a passion for technology and problem-solving. I have been programming for 4/5 years now and have a solid understanding of several programming languages, including:
 
-Here are some ideas to get you started:
+- JavaScript
+- Java
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Proficient in several programming languages
+- Self-taught and always eager to learn more
+
+## Goals
+- To continue improving my programming skills and expand my knowledge in new technologies.
+- To collaborate with other developers on open-source projects and contribute to the development community.
+- To work on challenging and innovative projects that have a positive impact on society.
+
+## Contact
+If you would like to get in touch with me, you can send me an email at [visposer@gmail.com](mailto:visposer@gmail.com). I am also available on Telegram under the username **FrancescoSerangeli**. I am always open to discussing new opportunities and connecting with like-minded individuals in the tech community.
+
+Thank you for visiting my GitHub profile!
