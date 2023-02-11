@@ -1,4 +1,4 @@
-# Welcome to Francesco Serangeli's GitHub Profile!
+# HELLO WORLD!
 
 I'm Francesco, a self-taught programmer with a passion for technology and problem-solving. I have been programming for 4/5 years now and have a solid understanding of several programming languages, including:
 
