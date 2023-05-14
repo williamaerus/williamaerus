@@ -1,13 +1,11 @@
 # HELLO WORLD!
 
-I'm Francesco, a self-taught programmer with a passion for technology and problem-solving. I have been programming for 4/5 years now and have a solid understanding of several programming languages, including:
+I'm Francesco, a self-taught programmer with a passion for technology and problem-solving. I have been programming for 4/5 years now and have a solid understanding of several programming languages, this are my top used languages:
 
-- JavaScript
-- Java
-- Python
-- C++
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamaerus&layout=compact" alt="Top Languages">
+  
 ## Skills
+
 - Proficient in several programming languages
 - Self-taught and always eager to learn more
 
